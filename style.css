@@ -1,0 +1,31 @@
+#logo {
+	margin-bottom: auto;
+	margin-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+}
+
+.search, input[type=text] {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	width: 575px;
+	height: 40px;
+	cursor: text;
+	font-size: 16px;
+	color: #c7c7c7;
+	border-radius: 1px;
+	border: 1px solid #eaeaea;
+	box-shadow: 0px 2px 3px #c7c7c7;
+	display: block;
+}
+
+
+.button {
+	width: 125px;
+	font-family: ariel;
+	font-size: 30px;
+    text-align: center;
+    display: inline-block;
+}
